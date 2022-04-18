@@ -1,0 +1,63 @@
+Search for news on ODKB from 15.01.2021 to 20.02.2021
+Added month-year to crawl list:  01.2021
+Added month-year to crawl list:  02.2021
+For 01.2021 generated URL = https://paodkb.org/events?month=1&year=2021&page=1
+On page https://paodkb.org/events?month=1&year=2021&page=1 number of news = 6
+2021-01-29 00:00:00 https://paodkb.org/events/toraga-zhogorku-kenesha-kyrgyzskoy-respubliki-vyrazil-blagodarnost
+2021-01-28 00:00:00 https://paodkb.org/events/otvetstvennyy-sekretar-pa-odkb-provel-rabochie-peregovory
+2021-01-28 00:00:00 https://paodkb.org/events/rekomendatsii-pa-odkb-po-borbe-s-prestupleniyami
+2021-01-27 00:00:00 https://paodkb.org/events/predstaviteli-pa-odkb-pochtili-pamyat-zhiteley-i
+2021-01-26 00:00:00 https://paodkb.org/events/predstaviteli-parlamenta-kazahstana-pochtili-pamyat-kazahstantsev-oboronyavshih
+2021-01-26 00:00:00 https://paodkb.org/events/glava-mid-respubliki-kazahstan-poblagodaril-pa-odkb
+On page https://paodkb.org/events?month=1&year=2021&page=2 number of news = 6
+2021-01-25 00:00:00 https://paodkb.org/events/v-belarusi-nachalas-vnezapnaya-proverka-gotovnosti-voysk
+2021-01-25 00:00:00 https://paodkb.org/events/otvetstvennyy-sekretar-i-posol-kazahstana-obsudili-rezultaty
+2021-01-22 00:00:00 https://paodkb.org/events/dokument-o-statuse-nablyudatelya-i-partnera-odkb
+2021-01-21 00:00:00 https://paodkb.org/events/na-voennyh-bazah-odkb-v-kirgizii-i
+2021-01-21 00:00:00 https://paodkb.org/events/obschie-podhody-odkb-k-registratsii-psihoaktivnyh-veschestv
+2021-01-20 00:00:00 https://paodkb.org/events/zasedanie-soveta-pa-odkb-planiruetsya-v-marte
+On page https://paodkb.org/events?month=1&year=2021&page=3 number of news = 6
+2021-01-20 00:00:00 https://paodkb.org/events/predstaviteli-pa-odkb-podelilis-s-parlamentskim-sobraniem
+2021-01-19 00:00:00 https://paodkb.org/events/gensek-odkb-i-glava-minindel-tadzhikistana-obsudili
+2021-01-18 00:00:00 https://paodkb.org/events/na-sovmestnyh-ucheniyah-zapad-2021-v-sentyabre
+2021-01-18 00:00:00 https://paodkb.org/events/segodnya-den-proryva-blokady-leningrada
+2021-01-15 00:00:00 https://paodkb.org/events/na-zasedanii-postsoveta-odkb-rassmotren-dokument-o
+2021-01-15 00:00:00 https://paodkb.org/events/volodin-ssha-mogli-by-pouchitsya-provedeniyu-vyborov
+On page https://paodkb.org/events?month=1&year=2021&page=4 number of news = 6
+For 02.2021 generated URL = https://paodkb.org/events?month=2&year=2021&page=1
+On page https://paodkb.org/events?month=2&year=2021&page=1 number of news = 6
+2021-02-19 00:00:00 https://paodkb.org/events/predsedatel-skb-odkb-prezident-tadzhikistana-emomali-rahmon
+On page https://paodkb.org/events?month=2&year=2021&page=2 number of news = 6
+2021-02-19 00:00:00 https://paodkb.org/events/rekomendatsii-v-oblasti-mezhdunarodnyh-aviapoletov-uskoryayut-reagirovanie
+2021-02-18 00:00:00 https://paodkb.org/events/predstavitel-armyanskoy-delegatsii-v-pa-obse-poblagodaril
+2021-02-18 00:00:00 https://paodkb.org/events/rosiyskiy-senator-dzhabarov-zayavil-o-vazhnosti-konsolidatsii
+2021-02-18 00:00:00 https://paodkb.org/events/petr-tolstoy-prizval-kolleg-iz-parlamentskih-delegatsiy
+2021-02-18 00:00:00 https://paodkb.org/events/parlamentskie-delegatsii-gosudarstv-chlenov-odkb-skoordiniruyut
+2021-02-17 00:00:00 https://paodkb.org/events/prezident-respubliki-tadzhikistan-obsudit-s-gensekom-odkb
+On page https://paodkb.org/events?month=2&year=2021&page=3 number of news = 6
+2021-02-16 00:00:00 https://paodkb.org/events/koordinatsionnoe-soveschanie-predsedateley-komitetov-po-oborone-i
+2021-02-15 00:00:00 https://paodkb.org/events/v-gosudarstvah-odkb-segodnya-vspominayut-voinov
+2021-02-12 00:00:00 https://paodkb.org/events/pa-odkb-garmoniziruet-zakonodatelstva-gosudarstv-organizatsii-i
+2021-02-11 00:00:00 https://paodkb.org/events/modelnyy-zakon-ob-obespechenii-natsionalnoy-bezopasnosti-garmoniziruet
+2021-02-10 00:00:00 https://paodkb.org/events/v-dushanbe-sostoyalis-rabochie-vstrechi-po-podgotovke
+2021-02-10 00:00:00 https://paodkb.org/events/spiker-parlamenta-tadzhikistana-provel-rabochuyu-vstrechu-s
+On page https://paodkb.org/events?month=2&year=2021&page=4 number of news = 6
+2021-02-09 00:00:00 https://paodkb.org/events/mirotvortsy-v-nagornom-karabahe-obezvredili-svyshe-24
+2021-02-08 00:00:00 https://paodkb.org/events/plan-podgotovki-formirovaniy-sistemy-kollektivnoy-bezopasnosti-na
+2021-02-05 00:00:00 https://paodkb.org/events/zakonodatelstvo-assamblei-sposobstvuet-povysheniyu-osnaschennosti-vooruzheniem-kollektivnyh
+2021-02-04 00:00:00 https://paodkb.org/events/den-rozhdeniya-spikera-assamblei
+2021-02-03 00:00:00 https://paodkb.org/events/voprosy-voenno-politicheskoy-situatsii-v-afganistane-obsudili-na
+2021-02-02 00:00:00 https://paodkb.org/events/nablyudenie-za-vyborami-predstaviteley-odkb-povyshaet-doverie
+On page https://paodkb.org/events?month=2&year=2021&page=5 number of news = 1
+2021-02-01 00:00:00 https://paodkb.org/events/parlamentskaya-assambleya-odkb-ustavnyy-organ-mezhparlamentskogo
+The ODKB crawl is completed.
+Search for news on ODKB from 15.01.2021 to 17.01.2021
+Added month-year to crawl list:  01.2021
+For 01.2021 generated URL = https://paodkb.org/events?month=1&year=2021&page=1
+On page https://paodkb.org/events?month=1&year=2021&page=1 number of news = 6
+On page https://paodkb.org/events?month=1&year=2021&page=2 number of news = 6
+On page https://paodkb.org/events?month=1&year=2021&page=3 number of news = 6
+2021-01-15 00:00:00 https://paodkb.org/events/na-zasedanii-postsoveta-odkb-rassmotren-dokument-o
+2021-01-15 00:00:00 https://paodkb.org/events/volodin-ssha-mogli-by-pouchitsya-provedeniyu-vyborov
+On page https://paodkb.org/events?month=1&year=2021&page=4 number of news = 6
+The ODKB crawl is completed.

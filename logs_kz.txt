@@ -1,0 +1,212 @@
+Search for news on primeminister.kz from 01.02.2021 to 14.02.2021
+2021-02-01 00:00:00 2021-02-07 00:00:00 
+2021-02-07 00:00:00 2021-02-14 00:00:00 
+2021-02-14 00:00:00 2021-02-15 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 01.02.2021 to 07.02.2021
+[Task] Search for news on primeminister.kz from 14.02.2021 to 15.02.2021
+[Task] Search for news on primeminister.kz from 07.02.2021 to 14.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 1
+2021-02-14 00:00:00 https://primeminister.kz/ru/videodigests/videodaydzhest-glavnye-sobytiya-nedeli-99-141626
+On page: https://primeminister.kz/ru/archive number of news = 1
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-07 00:00:00 https://primeminister.kz/ru/videodigests/videodaydzhest-glavnye-sobytiya-nedeli-98-71446
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+Search for news on primeminister.kz from 01.02.2021 to 03.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00 
+2021-02-03 00:00:00 - 2021-02-04 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 03.02.2021 to 04.02.2021
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 5
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/nursultan-nazarbaev-provel-zasedanie-soveta-bezopasnosti-rk-314542
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/prezident-kasym-zhomart-tokaev-prinyal-predsedatelya-nacionalnogo-banka-erbolata-dosaeva-311328
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/previews/2-fevralya-v-ukimet-uyi-sostoitsya-zasedanie-pravitelstva-114626
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/nariman-zhunusov-naznachen-predsedatelem-komiteta-rybnogo-hozyaystva-megpr-rk-315417
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/pod-predsedatelstvom-kazahstana-sostoyalos-zasedanie-soveta-eek-114611
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/shavhat-utemisov-naznachen-rukovoditelem-apparata-ministerstva-ekologii-geologii-i-prirodnyh-resursov-rk-315335
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/askar-tynysbekov-naznachen-predsedatelem-komiteta-po-zashchite-prav-potrebiteley-mti-rk-312235
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/glava-gosudarstva-prinyal-predsedatelya-verhovnogo-suda-zhakipa-asanova-211956
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/27012021-12
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/zaprosy-investorov-budut-rassmatrivatsya-s-uchastiem-predstaviteley-prokuratury-sudov-i-gosorganov-m-tleuberdi-215816
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/rol-mikrofinansovyh-organizaciy-v-kreditovanii-naseleniya-dlya-razvitiya-predprinimatelstva-budet-aktivizirovana-s-shapkenov-214123
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/perepis-naseleniya-v-2021-godu-proydet-v-onlayn-i-oflayn-formatah-aspr-rk-213251
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-zasedanii-vysshego-soveta-po-reformam-29012021-213420
+Search for news on primeminister.kz from 01.02.2021 to 03.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00 
+2021-02-03 00:00:00 - 2021-02-04 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+[Task] Search for news on primeminister.kz from 03.02.2021 to 04.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 5
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/nursultan-nazarbaev-provel-zasedanie-soveta-bezopasnosti-rk-314542
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/prezident-kasym-zhomart-tokaev-prinyal-predsedatelya-nacionalnogo-banka-erbolata-dosaeva-311328
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/nariman-zhunusov-naznachen-predsedatelem-komiteta-rybnogo-hozyaystva-megpr-rk-315417
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/previews/2-fevralya-v-ukimet-uyi-sostoitsya-zasedanie-pravitelstva-114626
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/shavhat-utemisov-naznachen-rukovoditelem-apparata-ministerstva-ekologii-geologii-i-prirodnyh-resursov-rk-315335
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/pod-predsedatelstvom-kazahstana-sostoyalos-zasedanie-soveta-eek-114611
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/glava-gosudarstva-prinyal-predsedatelya-verhovnogo-suda-zhakipa-asanova-211956
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/27012021-12
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/askar-tynysbekov-naznachen-predsedatelem-komiteta-po-zashchite-prav-potrebiteley-mti-rk-312235
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/zaprosy-investorov-budut-rassmatrivatsya-s-uchastiem-predstaviteley-prokuratury-sudov-i-gosorganov-m-tleuberdi-215816
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/rol-mikrofinansovyh-organizaciy-v-kreditovanii-naseleniya-dlya-razvitiya-predprinimatelstva-budet-aktivizirovana-s-shapkenov-214123
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/perepis-naseleniya-v-2021-godu-proydet-v-onlayn-i-oflayn-formatah-aspr-rk-213251
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-zasedanii-vysshego-soveta-po-reformam-29012021-213420
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nds-dlya-novyh-proizvodstvennyh-kompaniy-budet-snizhen-v-techenie-2-let-mne-rk-21275
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-rasshirennom-zasedanii-pravitelstva-26012021-212559
+2021-02-02 00:00:00 https://primeminister.kz/ru/sessions/zasedanie-pravitelstva-rk-02022021-211641
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/msh-nachinaet-razrabotku-koncepcii-nacionalnogo-proekta-po-razvitiyu-apk-na-sleduyushchie-5-let-s-omarov-215114
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-zapushchen-novyy-gosudarstvennyy-bank-proektov-stroitelstva-miir-rk-213932
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-kolichestvo-populyarnyh-uslug-v-smartfone-budet-uvelicheno-do-100-uslug-dlya-grazhdan-i-do-50-uslug-dlya-biznesa-mcriap-213315
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/pravitelstvo-rassmotrelo-mery-po-realizacii-resheniy-vysshego-soveta-po-reformam-211616
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-planiruetsya-vnedrenie-blockchain-tehnologii-v-administrirovanii-nds-minfin-211255
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nedropolzovateli-poluchat-vozmozhnost-samostoyatelno-regulirovat-zakupochnuyu-deyatelnost-mti-21590
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/minzdrav-razrabotal-proekt-prikaza-ob-utverzhdenii-predelnyh-cen-na-torgovye-naimenovaniya-lekarstvennyh-sredstv-dlya-roznichnoy-i-optovoy-realizacii-a-coy-2144
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/pravitelstvo-rassmotrelo-mery-po-realizacii-porucheniy-glavy-gosudarstva-212132
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/do-2025-goda-v-kazahstane-budet-postroeno-8-vodohranilishch-megpr-211732
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-budet-sformirovan-proekt-koncepcii-novoy-byudzhetnoy-politiki-do-2030-goda-21919
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/do-konca-2025-goda-planiruetsya-vvesti-v-ekspluataciyu-13-ges-215240
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/18012021-14
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/13012021-6
+The Kz crawl is completed.
+Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/previews/2-fevralya-v-ukimet-uyi-sostoitsya-zasedanie-pravitelstva-114626
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/glava-gosudarstva-prinyal-predsedatelya-verhovnogo-suda-zhakipa-asanova-211956
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/pod-predsedatelstvom-kazahstana-sostoyalos-zasedanie-soveta-eek-114611
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/27012021-12
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/zaprosy-investorov-budut-rassmatrivatsya-s-uchastiem-predstaviteley-prokuratury-sudov-i-gosorganov-m-tleuberdi-215816
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/rol-mikrofinansovyh-organizaciy-v-kreditovanii-naseleniya-dlya-razvitiya-predprinimatelstva-budet-aktivizirovana-s-shapkenov-214123
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/perepis-naseleniya-v-2021-godu-proydet-v-onlayn-i-oflayn-formatah-aspr-rk-213251
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-zasedanii-vysshego-soveta-po-reformam-29012021-213420
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nds-dlya-novyh-proizvodstvennyh-kompaniy-budet-snizhen-v-techenie-2-let-mne-rk-21275
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-rasshirennom-zasedanii-pravitelstva-26012021-212559
+Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 3
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+Search for news on primeminister.kz from 01.02.2021 to 03.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00 
+2021-02-03 00:00:00 - 2021-02-04 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+[Task] Search for news on primeminister.kz from 03.02.2021 to 04.02.2021
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+On page: https://primeminister.kz/ru/archive number of news = 5
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/nursultan-nazarbaev-provel-zasedanie-soveta-bezopasnosti-rk-314542
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/prezident-kasym-zhomart-tokaev-prinyal-predsedatelya-nacionalnogo-banka-erbolata-dosaeva-311328
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/previews/2-fevralya-v-ukimet-uyi-sostoitsya-zasedanie-pravitelstva-114626
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/nariman-zhunusov-naznachen-predsedatelem-komiteta-rybnogo-hozyaystva-megpr-rk-315417
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/pod-predsedatelstvom-kazahstana-sostoyalos-zasedanie-soveta-eek-114611
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/glava-gosudarstva-prinyal-predsedatelya-verhovnogo-suda-zhakipa-asanova-211956
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/shavhat-utemisov-naznachen-rukovoditelem-apparata-ministerstva-ekologii-geologii-i-prirodnyh-resursov-rk-315335
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/askar-tynysbekov-naznachen-predsedatelem-komiteta-po-zashchite-prav-potrebiteley-mti-rk-312235
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/27012021-12
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/zaprosy-investorov-budut-rassmatrivatsya-s-uchastiem-predstaviteley-prokuratury-sudov-i-gosorganov-m-tleuberdi-215816
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/rol-mikrofinansovyh-organizaciy-v-kreditovanii-naseleniya-dlya-razvitiya-predprinimatelstva-budet-aktivizirovana-s-shapkenov-214123
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/perepis-naseleniya-v-2021-godu-proydet-v-onlayn-i-oflayn-formatah-aspr-rk-213251
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-zasedanii-vysshego-soveta-po-reformam-29012021-213420
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nds-dlya-novyh-proizvodstvennyh-kompaniy-budet-snizhen-v-techenie-2-let-mne-rk-21275
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-rasshirennom-zasedanii-pravitelstva-26012021-212559
+Search for news on primeminister.kz from 01.02.2021 to 03.02.2021
+2021-02-01 00:00:00 - 2021-02-02 00:00:00 
+2021-02-02 00:00:00 - 2021-02-03 00:00:00 
+2021-02-03 00:00:00 - 2021-02-04 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 02.02.2021 to 03.02.2021
+[Task] Search for news on primeminister.kz from 01.02.2021 to 02.02.2021
+[Task] Search for news on primeminister.kz from 03.02.2021 to 04.02.2021
+On page: https://primeminister.kz/ru/archive number of news = 5
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/nursultan-nazarbaev-provel-zasedanie-soveta-bezopasnosti-rk-314542
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/reviews/razvitie-infrastruktury-vnedrenie-cifrovyh-tehnologiy-i-podderzhka-msb-obzor-razvitiya-shymkenta-za-2020-god-112117
+On page: https://primeminister.kz/ru/archive number of news = 24
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-ministra-ekologii-geologii-i-prirodnyh-resursov-magzuma-mirzagalieva-21041
+2021-02-03 00:00:00 https://primeminister.kz/ru/news/prezident-kasym-zhomart-tokaev-prinyal-predsedatelya-nacionalnogo-banka-erbolata-dosaeva-311328
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-v-strane-planiruetsya-postroit-200-novyh-obshcheobrazovatelnyh-shkol-a-aymagambetov-212936
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/previews/2-fevralya-v-ukimet-uyi-sostoitsya-zasedanie-pravitelstva-114626
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/glava-gosudarstva-prinyal-predsedatelya-verhovnogo-suda-zhakipa-asanova-211956
+2021-02-01 00:00:00 https://primeminister.kz/ru/news/pod-predsedatelstvom-kazahstana-sostoyalos-zasedanie-soveta-eek-114611
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/nariman-zhunusov-naznachen-predsedatelem-komiteta-rybnogo-hozyaystva-megpr-rk-315417
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/27012021-12
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/shavhat-utemisov-naznachen-rukovoditelem-apparata-ministerstva-ekologii-geologii-i-prirodnyh-resursov-rk-315335
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/zaprosy-investorov-budut-rassmatrivatsya-s-uchastiem-predstaviteley-prokuratury-sudov-i-gosorganov-m-tleuberdi-215816
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/rol-mikrofinansovyh-organizaciy-v-kreditovanii-naseleniya-dlya-razvitiya-predprinimatelstva-budet-aktivizirovana-s-shapkenov-214123
+2021-02-03 00:00:00 https://primeminister.kz/ru/hrpolitic/appointments/askar-tynysbekov-naznachen-predsedatelem-komiteta-po-zashchite-prav-potrebiteley-mti-rk-312235
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/perepis-naseleniya-v-2021-godu-proydet-v-onlayn-i-oflayn-formatah-aspr-rk-213251
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-zasedanii-vysshego-soveta-po-reformam-29012021-213420
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nds-dlya-novyh-proizvodstvennyh-kompaniy-budet-snizhen-v-techenie-2-let-mne-rk-21275
+2021-02-02 00:00:00 https://primeminister.kz/ru/media/infographic/mery-po-realizacii-porucheniy-glavy-gosudarstva-na-rasshirennom-zasedanii-pravitelstva-26012021-212559
+2021-02-02 00:00:00 https://primeminister.kz/ru/sessions/zasedanie-pravitelstva-rk-02022021-211641
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/msh-nachinaet-razrabotku-koncepcii-nacionalnogo-proekta-po-razvitiyu-apk-na-sleduyushchie-5-let-s-omarov-215114
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-zapushchen-novyy-gosudarstvennyy-bank-proektov-stroitelstva-miir-rk-213932
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-2021-godu-kolichestvo-populyarnyh-uslug-v-smartfone-budet-uvelicheno-do-100-uslug-dlya-grazhdan-i-do-50-uslug-dlya-biznesa-mcriap-213315
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/pravitelstvo-rassmotrelo-mery-po-realizacii-resheniy-vysshego-soveta-po-reformam-211616
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-planiruetsya-vnedrenie-blockchain-tehnologii-v-administrirovanii-nds-minfin-211255
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/nedropolzovateli-poluchat-vozmozhnost-samostoyatelno-regulirovat-zakupochnuyu-deyatelnost-mti-21590
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/minzdrav-razrabotal-proekt-prikaza-ob-utverzhdenii-predelnyh-cen-na-torgovye-naimenovaniya-lekarstvennyh-sredstv-dlya-roznichnoy-i-optovoy-realizacii-a-coy-2144
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/pravitelstvo-rassmotrelo-mery-po-realizacii-porucheniy-glavy-gosudarstva-212132
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/do-2025-goda-v-kazahstane-budet-postroeno-8-vodohranilishch-megpr-211732
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/v-kazahstane-budet-sformirovan-proekt-koncepcii-novoy-byudzhetnoy-politiki-do-2030-goda-21919
+2021-02-02 00:00:00 https://primeminister.kz/ru/news/do-konca-2025-goda-planiruetsya-vvesti-v-ekspluataciyu-13-ges-215240
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/18012021-14
+2021-02-02 00:00:00 https://primeminister.kz/ru/decisions/13012021-6
+The Kz crawl is completed.
+Search for news on primeminister.kz from 15.01.2021 to 17.01.2021
+2021-01-15 00:00:00 - 2021-01-16 00:00:00 
+2021-01-16 00:00:00 - 2021-01-17 00:00:00 
+2021-01-17 00:00:00 - 2021-01-18 00:00:00
+Launching the task list.
+[Task] Search for news on primeminister.kz from 16.01.2021 to 17.01.2021
+[Task] Search for news on primeminister.kz from 15.01.2021 to 16.01.2021
+[Task] Search for news on primeminister.kz from 17.01.2021 to 18.01.2021
+On page: https://primeminister.kz/ru/archive number of news = 1
+2021-01-17 00:00:00 https://primeminister.kz/ru/videodigests/videodaydzhest-glavnye-sobytiya-nedeli-95-1702332
+On page: https://primeminister.kz/ru/archive number of news = 3
+2021-01-16 00:00:00 https://primeminister.kz/ru/decisions/30122020-937
+On page: https://primeminister.kz/ru/archive number of news = 6
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/prezident-prinyal-uchastie-v-plenarnom-zasedanii-mazhilisa-parlamenta-150341
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/bakytzhan-temirbolat-naznachen-direktorom-gu-biblioteka-pervogo-prezidenta-rk-elbasy-150102
+2021-01-16 00:00:00 https://primeminister.kz/ru/decisions/30122020-949
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/prezident-rk-kasym-zhomart-tokaev-podpisal-ukaz-o-naznachenii-askara-mamina-premer-ministrom-respubliki-kazahstan-1502729
+2021-01-16 00:00:00 https://primeminister.kz/ru/decisions/29122020-915
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/prezident-kasym-zhomart-tokaev-vystupil-na-otkrytii-pervoy-sessii-parlamenta-vii-sozyva-1504422
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/vystuplenie-glavy-gosudarstva-kasym-zhomarta-tokaeva-na-otkrytii-pervoy-sessii-parlamenta-respubliki-kazahstan-vii-sozyva-150556
+2021-01-15 00:00:00 https://primeminister.kz/ru/news/prezident-rk-kasym-zhomart-tokaev-podpisal-ukaz-o-pravitelstve-respubliki-kazahstan-150523
+The Kz crawl is completed.
